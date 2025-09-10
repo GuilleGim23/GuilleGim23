@@ -1,5 +1,5 @@
 ## Hi there 👋
-!(C:\Users\Guille\Desktop\ASIR U-TAD\ASIR 2\AAWW\saludando.jpg)
+![inicio](C:\Users\Guille\Desktop\ASIR U-TAD\ASIR 2\AAWW\saludando.jpg)
 <!--
 **GuilleGim23/GuilleGim23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
