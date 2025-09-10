@@ -1,6 +1,7 @@
 ## Hi there 👋
 ![inicio](saludando.jpg)
-#- 🌱 I’m currently learning ...
+
+- 🌱 I’m currently learning ...
 
 
 <!--
