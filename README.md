@@ -1,5 +1,8 @@
 ## Hi there 👋
 ![inicio](saludando.jpg)
+#- 🌱 I’m currently learning ...
+
+
 <!--
 **GuilleGim23/GuilleGim23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
